@@ -16,4 +16,4 @@ I’m the kind of person who hears *“It can’t be done”* and takes it as a 
 ---  
 
 📫 **Let's Connect!**  
-**GitHub** – Well… you’re already here 👀 | **LinkedIn** – [linkedin.com/in/pranav9087](#) | **Email** – pranav.varma1801@gmail.com  
+**GitHub** – Well… you’re already here 👀 | **LinkedIn** – [https://www.linkedin.com/in/pranavpenmatcha/](#) | **Email** – pranav.varma1801@gmail.com  
