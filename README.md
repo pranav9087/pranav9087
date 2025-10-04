@@ -11,8 +11,6 @@ I’m the kind of person who hears *“It can’t be done”* and takes it as a 
 - **VirtualPong ✋🎮** – Play Pong with your hands… no controller needed!  
 - **SegBin ♻️** – AI-driven waste sorter that makes trash sorting smarter.  
 
-**✨ Fun Fact:** I once built a project just because someone said *“It’s impossible.”*  
-
 ---  
 
 📫 **Let's Connect!**  
